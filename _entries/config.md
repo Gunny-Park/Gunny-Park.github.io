@@ -11,7 +11,7 @@ In the `_config.yml`-file:
 
 {% highlight yaml %}
 # name of the docs
-name: Docster Documentation
+name: 1231548884546
 
 # docs author
 author: DigitalMind
